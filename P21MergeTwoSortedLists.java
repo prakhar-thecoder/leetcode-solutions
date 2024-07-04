@@ -10,7 +10,7 @@ class ListNode {
     }
 }
 
-public class P31MergeTwoSortedLists {
+public class P21MergeTwoSortedLists {
     public static void main(String[] args) {
         ListNode l13 = new ListNode(4);
         ListNode l12 = new ListNode(2, l13);
