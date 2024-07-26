@@ -1,4 +1,4 @@
-public class P35SearchInsertPosition {
+public class Solution {
     public int searchInsert(int[] nums, int target) {
         if (nums.length == 1) {
             if (nums[0] > target || nums[0] == target) {

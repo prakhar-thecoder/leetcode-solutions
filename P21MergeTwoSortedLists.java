@@ -1,16 +1,4 @@
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-    @Override
-    public String toString() {
-        return String.format("val: %d, next: %s", val, next);
-    }
-}
-
-public class P21MergeTwoSortedLists {
+public class Solution {
     public static void main(String[] args) {
         ListNode l13 = new ListNode(4);
         ListNode l12 = new ListNode(2, l13);

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class P20ValidParantheses {
+public class Solution {
     public static void main(String[] args) {
         System.out.println("Result: " + isValid("["));
     }

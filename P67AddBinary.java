@@ -1,4 +1,4 @@
-public class P67AddBinary {
+public class Solution {
     public String addBinary(String a, String b) {
         StringBuilder res = new StringBuilder();
         int i = a.length() - 1;

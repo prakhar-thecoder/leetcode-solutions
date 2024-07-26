@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class P13RomanToInteger {
+public class Solution {
     public static void main(String[] args) {
         System.out.println("Result: " + romanToInt("LVIII"));
     }

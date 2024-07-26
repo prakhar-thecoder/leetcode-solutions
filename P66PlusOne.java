@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class P66PlusOne {
+public class Solution {
     public int[] plusOne(int[] digits) {
         int[] result = new int[digits.length + 1];
 

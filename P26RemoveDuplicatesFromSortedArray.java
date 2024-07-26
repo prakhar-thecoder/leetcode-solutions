@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class P26RemoveDuplicatesFromSortedArray {
+public class Solution {
     public static void main(String[] args) {
         int[] nums = {1,1,2};
         int[] expectedNums = {1,2};
